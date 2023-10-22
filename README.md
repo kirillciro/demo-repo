@@ -1,3 +1,3 @@
-# My First GitHub Project
+# My first repository OK
 
-This is my first GitHub project. I published this project with help of Visual Studio Code.
+This is my first GitHub project.
